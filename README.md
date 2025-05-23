@@ -26,13 +26,12 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pragyan-dhar-b98696313/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/pragyan-dhar-b98696313/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/26855976" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
   <a href="https://www.hackerrank.com/_2315510146" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
   <a href="https://www.leetcode.com/aagwytcfgs" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://codeforces.com/profile/Pragyan_Dhar" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-lightgrey?style=for-the-badge&logo=codeforces"></a>
 </p>
-
 </td>
 </tr>
 </table>
