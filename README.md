@@ -18,8 +18,7 @@
 - 🔭 Building **apps**, **dashboards**, and automating boring things  
 - ⚔️ Daily DSA grind on [Codeforces](https://codeforces.com/profile/Pragyan_Dhar) (TLE Sheet in use 💥)  
 - 🎯 Currently chasing `1500+ Specialist` rating and `GitHub Explorer` status  
-- 🧠 I ship code that solves problems, not just passes tests  
-- ✝️ Scripture-fed, terminal-led — I build with **purpose + prayer** 🙏  
+- 🧠 I ship code that solves problems, not just passes tests   
 
 ### 📚 Learning Focus (Current Sprint)
 - 🎨 Flutter Animations & Firebase Auth  
@@ -70,41 +69,15 @@
 ### 📊 GitHub Insights
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-#### 📈 Pragyan's GitHub Stats
-
-- ⭐ **Total Stars Earned**: `0`
-- 🕒 **Total Commits (2025)**: `194`
-- ❗ **Total Issues**: `0`
-- 🧑‍💻 **Contributed to (last year)**: `0`
-
-</td>
-<td>
-
-#### 🔥 Contributions Streak
-
-- 🔁 **Total Contributions**: `382`  
-- 🔥 **Current Streak**: `1` (as of May 23)  
-- 🕰️ **Longest Streak**: `3` (Feb 6 – Feb 8, 2024)
-
-</td>
-<td>
-
-#### 🎨 Most Used Languages
-
-- 🔵 HTML: `45.21%`  
-- 🟠 Jupyter Notebook: `36.57%`  
-- 🟣 CSS: `10.76%`  
-- 🟡 Java: `3.95%`  
-- 🟢 JavaScript: `2.43%`  
-- 🔷 Python: `1.08%`
-
-</td>
-</tr>
-</table>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pragyandhar&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pragyandhar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyandhar&layout=compact&theme=tokyonight" height="150"/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragyandhar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pragyandhar&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pragyandhar&theme=tokyonight" />
+</p>
 
 </div>
 
@@ -115,8 +88,6 @@
 |--------|------------|-------------|
 | **📝 Habit Tracker App** | Flutter + Firebase | UI-rich tracker app with Firebase Auth + Firestore |
 | **📊 Sales Dashboard** | Power BI + Excel | Visual dashboard for product & sales analytics |
-| **🧠 Resume Analyzer Bot** | Python + NLP | Automated resume scoring tool using keyword vectors |
-| **⚔️ DSA Tracker Tool** | Python + Flask + MongoDB | Tracks TLE Sheet progress + Codeforces contests |
 
 > 🧭 Explore more at [My GitHub Repositories](https://github.com/pragyandhar)
 
