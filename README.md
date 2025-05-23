@@ -86,14 +86,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pragyandhar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" style="border: 1px solid #444; border-radius: 10px; padding: 5px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyandhar&layout=compact&theme=tokyonight" height="150" style="border: 1px solid #444; border-radius: 10px; padding: 5px;"/>
 </p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragyandhar&theme=tokyonight" style="border: 1px solid #444; border-radius: 10px; padding: 5px;" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pragyandhar&theme=tokyonight" style="border: 1px solid #444; border-radius: 10px; padding: 5px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pragyandhar&theme=tokyonight" style="border: 1px solid #444; border-radius: 10px; padding: 5px;" />
-</p>
-</div>
 
 ---
 
