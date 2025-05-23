@@ -14,13 +14,18 @@
 
 ### 💡 About Me
 
-- 🌱 I’m currently deep-diving into **Flutter**, **Data Analytics**, and **Backend Automation**  
-- 🔭 Working on **Flutter Apps**, **Firebase Integration**, **Power BI Dashboards**, and **TLE Sheet for DSA**  
-- 🛠️ Real-world problem solver using **code + design + data**  
-- 🧠 Codeforces: [My Profile](https://codeforces.com/profile/Pragyan_Dhar) (grinding to Specialist+ 🟩)  
-- 💬 DM me about **Data Vis, Deployment, or DSA strategies**  
-- 📫 Email: **pragyandhar@gmail.com**  
-- ✝️ Faithful + Focused: Scripture in the morning, Git commits at night 😇
+- 🌱 Deep-diving into **Flutter**, **Data Analytics**, and **Backend Automation**  
+- 🔭 Building **apps**, **dashboards**, and automating boring things  
+- ⚔️ Daily DSA grind on [Codeforces](https://codeforces.com/profile/Pragyan_Dhar) (TLE Sheet in use 💥)  
+- 🎯 Currently chasing `1500+ Specialist` rating and `GitHub Explorer` status  
+- 🧠 I ship code that solves problems, not just passes tests  
+- ✝️ Scripture-fed, terminal-led — I build with **purpose + prayer** 🙏  
+
+### 📚 Learning Focus (Current Sprint)
+- Flutter Animations & Firebase Auth  
+- Python for Data Wrangling  
+- Competitive Problem Solving Patterns  
+- Deployment (Play Store + Streamlit)  
 
 </td>
 <td valign="top" width="45%">
@@ -34,6 +39,11 @@
   <a href="https://www.leetcode.com/aagwytcfgs" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://codeforces.com/profile/Pragyan_Dhar" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-lightgrey?style=for-the-badge&logo=codeforces"></a>
 </p>
+
+### 🧭 Personal Metrics
+- 🏆 72-Day Monk Mode Life Transformation in progress  
+- 🧱 Building: Portfolio, GitHub Credibility, Dev Muscles  
+- 🧠 Productivity Stack: VS Code + Notion + Pomofocus + Prayer  
 
 </td>
 </tr>
@@ -71,6 +81,8 @@
 |--------|------------|-------------|
 | **📝 Habit Tracker App** | Flutter + Firebase | UI-rich tracker app with Firebase Auth + Firestore |
 | **📊 Sales Dashboard** | Power BI + Excel | Visual dashboard for product & sales analytics |
+| **🧠 Resume Analyzer Bot** | Python + NLP | Automated resume scoring tool using keyword vectors |
+| **⚔️ DSA Tracker Tool** | Python + Flask + MongoDB | Tracks TLE Sheet progress + Codeforces contests |
 
 > 🧭 Explore more at [My GitHub Repositories](https://github.com/pragyandhar)
 
