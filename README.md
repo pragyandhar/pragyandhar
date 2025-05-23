@@ -55,7 +55,7 @@
 ### 🧭 Personal Metrics
 - 🏆 72-Day Monk Mode Life Transformation in progress  
 - 🧱 Building: Portfolio, GitHub Credibility, Dev Muscles  
-- 🧠 Productivity Stack: VS Code + Notion + Pomofocus + Prayer  
+- 🧠 Productivity Stack: VS Code + Excel + Pomofocus + Prayer  
 
 </td>
 </tr>
