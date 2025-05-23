@@ -39,7 +39,7 @@
 
 ---
 
-<table width="100%" style="border:1px solid #444; border-radius:10px; padding:10px">
+<table align="center" width="90%" style="border:1px solid #444; border-radius:10px; padding:10px">
 <tr>
 <td width="50%" valign="top">
 
