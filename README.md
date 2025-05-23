@@ -18,7 +18,7 @@
 - 🔭 Building **apps**, **dashboards**, and automating boring things  
 - ⚔️ Daily DSA grind on [Codeforces](https://codeforces.com/profile/Pragyan_Dhar) (TLE Sheet in use 💥)  
 - 🎯 Currently chasing `1500+ Specialist` rating and `GitHub Explorer` status  
-- 🧠 I ship code that solves problems, not just passes tests   
+- 🧠 I ship code that solves problems, not just passes tests  
 
 ### 📚 Learning Focus (Current Sprint)
 - 🎨 Flutter Animations & Firebase Auth  
