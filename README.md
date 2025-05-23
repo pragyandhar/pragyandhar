@@ -22,10 +22,10 @@
 - ✝️ Scripture-fed, terminal-led — I build with **purpose + prayer** 🙏  
 
 ### 📚 Learning Focus (Current Sprint)
-- Flutter Animations & Firebase Auth  
-- Python for Data Wrangling  
-- Competitive Problem Solving Patterns  
-- Deployment (Play Store + Streamlit)  
+- 🎨 Flutter Animations & Firebase Auth  
+- 🐍 Python for Data Wrangling  
+- 🧮 Competitive Problem Solving Patterns  
+- 🚀 Deployment (Play Store + Streamlit)  
 
 </td>
 <td valign="top" width="45%">
@@ -69,9 +69,43 @@
 
 ### 📊 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pragyandhar&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pragyandhar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyandhar&layout=compact&theme=tokyonight" height="150"/>
+
+<table>
+<tr>
+<td>
+
+#### 📈 Pragyan's GitHub Stats
+
+- ⭐ **Total Stars Earned**: `0`
+- 🕒 **Total Commits (2025)**: `194`
+- ❗ **Total Issues**: `0`
+- 🧑‍💻 **Contributed to (last year)**: `0`
+
+</td>
+<td>
+
+#### 🔥 Contributions Streak
+
+- 🔁 **Total Contributions**: `382`  
+- 🔥 **Current Streak**: `1` (as of May 23)  
+- 🕰️ **Longest Streak**: `3` (Feb 6 – Feb 8, 2024)
+
+</td>
+<td>
+
+#### 🎨 Most Used Languages
+
+- 🔵 HTML: `45.21%`  
+- 🟠 Jupyter Notebook: `36.57%`  
+- 🟣 CSS: `10.76%`  
+- 🟡 Java: `3.95%`  
+- 🟢 JavaScript: `2.43%`  
+- 🔷 Python: `1.08%`
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
