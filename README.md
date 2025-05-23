@@ -20,12 +20,6 @@
 - 🎯 Currently chasing `1500+ Specialist` rating and `GitHub Explorer` status  
 - 🧠 I ship code that solves problems, not just passes tests  
 
-### 📚 Learning Focus (Current Sprint)
-- 🎨 Flutter Animations & Firebase Auth  
-- 🐍 Python for Data Wrangling  
-- 🧮 Competitive Problem Solving Patterns  
-- 🚀 Deployment (Play Store + Streamlit)  
-
 </td>
 <td valign="top" width="45%">
 
@@ -38,6 +32,25 @@
   <a href="https://www.leetcode.com/aagwytcfgs" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://codeforces.com/profile/Pragyan_Dhar" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-lightgrey?style=for-the-badge&logo=codeforces"></a>
 </p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<table width="100%" style="border:1px solid #444; border-radius:10px; padding:10px">
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Learning Focus (Current Sprint)
+- 🎨 Flutter Animations & Firebase Auth  
+- 🐍 Python for Data Wrangling  
+- 🧮 Competitive Problem Solving Patterns  
+- 🚀 Deployment (Play Store + Streamlit)  
+
+</td>
+<td width="50%" valign="top">
 
 ### 🧭 Personal Metrics
 - 🏆 72-Day Monk Mode Life Transformation in progress  
@@ -68,17 +81,18 @@
 
 ### 📊 GitHub Insights
 <div align="center">
-
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=pragyandhar&show_icons=true&theme=tokyonight&hide=prs&count_private=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pragyandhar&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyandhar&layout=compact&theme=tokyonight" height="150"/>
-  <br/>
+</p>
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pragyandhar&theme=tokyonight" />
+</p>
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pragyandhar&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pragyandhar&theme=tokyonight" />
 </p>
-
 </div>
 
 ---
