@@ -1,6 +1,6 @@
 ---
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Pragyan Dhar</span></h1>
-<h3 align="center">🚀 Building Digital Tools | 💻 Data-Driven Dev | 📱 Flutter Freelancer | 🧠 DSA + Codeforces Grinder</h3>
+<h3 align="center">🚀 Building Digital Tools | 💻 Data-Driven Dev | 🧠 DSA + Codeforces Grinder</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" width="300" />
