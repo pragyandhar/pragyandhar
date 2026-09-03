@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/pragyan-dhar"><img src="https://img.shields.io/badge/LinkedIn-pragyan--dhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19" /></a>
-<a href="https://github.com/pragyandhar"><img src="https://img.shields.io/badge/GitHub-pragyandhar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F19" /></a>
-<a href="mailto:pragyandhar@gmail.com"><img src="https://img.shields.io/badge/Email-pragyandhar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19" /></a>
-<img src="https://img.shields.io/badge/Location-Delhi%2C%20IN-A78BFA?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B0F19" />
+<a href="https://linkedin.com/in/pragyan-dhar"><img src="https://img.shields.io/badge/LinkedIn-pragyan--dhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" /></a>
+<a href="https://github.com/pragyandhar"><img src="https://img.shields.io/badge/GitHub-pragyandhar-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1F2937" /></a>
+<a href="mailto:pragyandhar@gmail.com"><img src="https://img.shields.io/badge/Email-pragyandhar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" /></a>
+<img src="https://img.shields.io/badge/Location-Delhi%2C%20IN-5B21B6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1F2937" />
 
 <img src="https://komarev.com/ghpvc/?username=pragyandhar&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" alt="profile views" />
 
@@ -25,11 +25,11 @@ Third-year CSE undergrad who ships. I build **retrieval and agent systems** — 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.Tech_CSE-AI%2FML_Specialization-A78BFA?style=flat-square&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/GLA_University-Mathura-22D3EE?style=flat-square&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Class_of-2027-F472B6?style=flat-square&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/CGPA-8.23%2F10-34D399?style=flat-square&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Based_in-Delhi%2C_India-6D28D9?style=flat-square&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/B.Tech_CSE-AI%2FML_Specialization-5B21B6?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/GLA_University-Mathura-0E7490?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Class_of-2027-9D174D?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/CGPA-8.23%2F10-065F46?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Based_in-Delhi%2C_India-3730A3?style=flat-square&labelColor=1F2937" />
 
 </div>
 
@@ -138,40 +138,40 @@ An async validation pipeline that treats LLM-generated code as guilty until prov
 
 **Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/SQL-2D3E50?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F2937" />
 
 **AI / Orchestration**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/LangGraph-4C1D95?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/CrewAI-6D28D9?style=for-the-badge&logo=openai&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/RAG_Pipelines-22D3EE?style=for-the-badge&logo=elasticsearch&logoColor=black&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-A78BFA?style=for-the-badge&logo=probot&logoColor=black&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/LangGraph-4C1D95?style=for-the-badge&logo=graphql&logoColor=E9D5FF&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/CrewAI-5B21B6?style=for-the-badge&logo=openai&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-0E7490?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-6D28D9?style=for-the-badge&logo=probot&logoColor=white&labelColor=1F2937" />
 
 **Backend**
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/SQLAlchemy-C63C1E?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/FastAPI-0F766E?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/SQLAlchemy-A62F16?style=for-the-badge&logo=sqlalchemy&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Celery-2E6B3D?style=for-the-badge&logo=celery&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1F2937" />
 
-**Data & Vectors**
+**Data &amp; Vectors**
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Redis-A41E11?style=for-the-badge&logo=redis&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Pinecone-111827?style=for-the-badge&logo=pinecone&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Qdrant-9B1B38?style=for-the-badge&logo=qdrant&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/ChromaDB-B34320?style=for-the-badge&logo=databricks&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1F2937" />
 
 **Infrastructure**
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0B0F19" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/Docker-145EA8?style=for-the-badge&logo=docker&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Azure-0062AD?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/GitHub_Actions-155BB5?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/Supabase-1F7A54?style=for-the-badge&logo=supabase&logoColor=white&labelColor=1F2937" />
 
 </div>
 
@@ -232,8 +232,8 @@ An async validation pipeline that treats LLM-generated code as guilty until prov
 **Open to AI/ML engineering and backend roles.**
 If you're hiring for systems that have to stay up — let's talk.
 
-<a href="https://linkedin.com/in/pragyan-dhar"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F19" /></a>
-<a href="mailto:pragyandhar@gmail.com"><img src="https://img.shields.io/badge/Send_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F19" /></a>
+<a href="https://linkedin.com/in/pragyan-dhar"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1F2937" /></a>
+<a href="mailto:pragyandhar@gmail.com"><img src="https://img.shields.io/badge/Send_a_mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F2937" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,55:4C1D95,100:0B0F19" />
 
