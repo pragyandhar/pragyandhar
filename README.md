@@ -19,29 +19,25 @@
 
 ---
 
-```yaml
-# ~/pragyandhar/manifest.yaml
-identity:
-  name:      Pragyan Chandra Dhar
-  role:      B.Tech CSE — AI/ML Specialization @ GLA University, Mathura
-  graduates: 2027
-  based_in:  Delhi, India
+## whoami
 
-what_i_do:
-  - Design retrieval systems that answer correctly and cheaply, at the same time
-  - Orchestrate LLM agents with checkpointing, retries and human-in-the-loop gates
-  - Instrument everything — if it isn't measured, it isn't shipped
+Third-year CSE undergrad who ships. I build **retrieval and agent systems** — and then keep them running for real users, on a real budget, with real numbers attached. My last one answered ~8,000 questions in a month for under $20.
 
-operating_principles:
-  - Latency and cost are product features, not afterthoughts
-  - A cache hit is the cheapest inference you will ever run
-  - Every LLM output is untrusted input until something validates it
+<div align="center">
 
-currently:
-  building:  reliability + evaluation tooling for LLM-generated code
-  learning:  distributed systems, retrieval evaluation, low-level design
-  open_to:   AI/ML engineering and backend internships & full-time roles
-```
+<img src="https://img.shields.io/badge/B.Tech_CSE-AI%2FML_Specialization-A78BFA?style=flat-square&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/GLA_University-Mathura-22D3EE?style=flat-square&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/Class_of-2027-F472B6?style=flat-square&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/CGPA-8.23%2F10-34D399?style=flat-square&labelColor=0B0F19" />
+<img src="https://img.shields.io/badge/Based_in-Delhi%2C_India-6D28D9?style=flat-square&labelColor=0B0F19" />
+
+</div>
+
+| 🧠 &nbsp;What I build | ⚡ &nbsp;What I optimise for | 🔭 &nbsp;Right now |
+| :--- | :--- | :--- |
+| Retrieval systems that answer correctly **and** cheaply | Latency and cost as product features, not afterthoughts | Building reliability + evaluation tooling for LLM-generated code |
+| Agent graphs with checkpointing, retries and human-in-the-loop gates | Cache hits — the cheapest inference you will ever run | Learning distributed systems, retrieval evaluation, low-level design |
+| Validation layers that treat every model output as untrusted input | Telemetry on everything — if it isn't measured, it isn't shipped | Open to AI/ML engineering and backend roles |
 
 ---
 
